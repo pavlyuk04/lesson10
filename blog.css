@@ -1,7 +1,7 @@
 
 *{transition: all .2s ease-in;}
 .container {
-    width: 1501px;
+    max-width: 1501px;
     height: 865px;
     background-color: #B07CF7;
     margin: 0 auto;
